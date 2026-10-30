@@ -2,7 +2,7 @@
 
 Analysis of 42,838 credit card complaints against five large US banks, using SQL, Python and an interactive dashboard. It looks at what customers complain about, how outcomes differ by bank, and what a bank should fix first.
 
-**[Open the Looker Studio dashboard](https://datastudio.google.com/reporting/65eeb341-1ac1-40de-9865-d41a21e0e272)** | **[Open the notebook](cfpb_complaints_analysis.ipynb)**
+**[Open the Looker Studio dashboard](https://datastudio.google.com/reporting/65eeb341-1ac1-40de-9865-d41a21e0e272)** | **[Open the notebook](https://colab.research.google.com/drive/1gVPed45RtPWGJJEpYy8wWrtgt2CjFqqB?usp=sharing)**
 
 ## Problem
 Where are customers having the most trouble with credit cards, how do complaint outcomes differ across banks, and which issues should a bank fix first?
